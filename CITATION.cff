@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: >-
+  If you use these scripts or adaptations substantially based on them in scholarly
+  research, please cite the associated chapter listed in the references below.
+type: software
+title: "Prosopographical Network Analysis of the Archive of Nūr-Šamaš"
+authors:
+  - family-names: Gonçalves
+    given-names: Carlos
+license: BSD-3-Clause
+abstract: >-
+  Four Python scripts for parsing Old Babylonian loan contracts, normalizing
+  and disambiguating personal names, constructing a co-occurrence network,
+  detecting communities, and producing a prosopographical roster for the
+  archive of Nūr-Šamaš.
+references:
+  - type: book-section
+    title: "Name Disambiguation and Horizons of Possibilities in the Old Babylonian Archive of Nūr-Šamaš"
+    authors:
+      - family-names: Gonçalves
+        given-names: Carlos
+    collection-title: "Method and Theory in Archival Studies: Cases from Ancient Western Asia and North Africa"
+    editors:
+      - family-names: Gonçalves
+        given-names: Carlos
+      - family-names: Rede
+        given-names: Marcelo
+    publisher:
+      name: Eisenbrauns
+    year: 2027
+    isbn: "978-1-64602-421-6"
