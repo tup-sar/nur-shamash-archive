@@ -6,16 +6,6 @@ Gonçalves, Carlos. 2027. “Name Disambiguation and Horizons of Possibilities i
 
 ---
 
-## License
-
-The Python scripts in this repository are distributed under the BSD 3-Clause License. See the [LICENSE](LICENSE) file for the full terms.
-
-Users are free to use, modify, and redistribute the scripts under the conditions of this license. In particular, neither the author's name nor the names of contributors may be used to endorse or promote derivative software without prior written permission.
-
-For scholarly use of these scripts, or adaptations substantially based on them, users are requested to cite the associated publication listed above. Independent implementations inspired by the general methods do not require citation of the software, although scholarly acknowledgment is appreciated.
-
----
-
 ## Overview
 
 This repository contains a suite of four Python scripts designed to extract and process **prosopographical information** from a set of Old Babylonian documents known as the *archive of Nūr-Šamaš*. The goal is to disambiguate personal names and construct a social network that helps analyze historical relationships through computational methods.
@@ -98,8 +88,8 @@ Also see the earlier version of this project: [https://github.com/tup-sar/sna-me
 
 ## License
 
-This repository is shared for academic and research purposes. Please cite the author and the associated publication when using this material.
+The Python scripts in this repository are distributed under the BSD 3-Clause License. See the [LICENSE](LICENSE) file for the full terms.
 
----
+Users are free to use, modify, and redistribute the scripts under the conditions of this license. In particular, neither the author's name nor the names of contributors may be used to endorse or promote derivative software without prior written permission.
 
-Let me know if you'd like to include sample input/output files or usage examples.
+For scholarly use of these scripts, or adaptations substantially based on them, users are requested to cite the associated publication listed above. Independent implementations inspired by the general methods do not require citation of the software, although scholarly acknowledgment is appreciated.
