@@ -68,7 +68,7 @@ The research data accompanying these scripts are deposited on Zenodo:
 
 Prosopographical Data for the Old Babylonian Archive of Nūr-Šamaš
 
-DOI: 10.5281/zenodo.23510657
+[10.5281/zenodo.23510657](https://doi.org/10.5281/zenodo.23510657)
 
 The dataset includes annotated transliterations, personal-name records, disambiguation statements, and prosopographical rosters produced before and after disambiguation.
 
