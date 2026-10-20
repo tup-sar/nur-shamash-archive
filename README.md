@@ -62,6 +62,18 @@ The scripts use relative paths, with `base_folder = ".."`, and therefore expect 
 
 ---
 
+## Research Data 
+
+The research data accompanying these scripts are deposited on Zenodo:
+
+Prosopographical Data for the Old Babylonian Archive of Nūr-Šamaš
+
+DOI: 10.5281/zenodo.23510657
+
+The dataset includes annotated transliterations, personal-name records, disambiguation statements, and prosopographical rosters produced before and after disambiguation.
+
+---
+
 ## Funding and Acknowledgments
 
 This research was developed as part of a project funded by the **São Paulo Research Foundation (FAPESP)**, Grant 2021/01363-6, active from October 1, 2021, to September 30, 2023. Initial development of the scripts began in 2016 during a fellowship at the **Paris Institute for Advanced Study (2016–2017)**.
